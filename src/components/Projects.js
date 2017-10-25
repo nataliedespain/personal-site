@@ -46,8 +46,8 @@ const About = ({ colorName }) => {
             </a>
           </p>
           <p>
-            <a className="link arrow-move" href="https://www.youtube.com/watch?v=kw90Z45LPsI" target="_blank" rel="noopener noreferrer">
-              <UnderlinedText text="Watch Demo" colorName={colorName} small /><FontAwesome className="arrow-icon" name="long-arrow-right" />
+            <a className="link arrow-move" href="https://petsit.herokuapp.com" target="_blank" rel="noopener noreferrer">
+              <UnderlinedText text="View Live" colorName={colorName} small /><FontAwesome className="arrow-icon" name="long-arrow-right" />
             </a>
           </p>
         </div>
