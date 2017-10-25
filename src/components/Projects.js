@@ -22,12 +22,12 @@ const About = ({ colorName }) => {
           </p>
           <br />
           <p>
-            <a className="link arrow-move" href="https://github.com/nataliedespain/flow">
+            <a className="link arrow-move" href="https://github.com/nataliedespain/flow" target="_blank" rel="noopener noreferrer">
               <UnderlinedText text="View on Github" colorName={colorName} small /><FontAwesome className="arrow-icon" name="long-arrow-right" />
             </a>
           </p>
           <p>
-            <a className="link arrow-move" href="https://www.youtube.com/watch?v=pFiC-lqSnIg">
+            <a className="link arrow-move" href="https://www.youtube.com/watch?v=pFiC-lqSnIg" target="_blank" rel="noopener noreferrer">
               <UnderlinedText text="Watch Demo" colorName={colorName} small /><FontAwesome className="arrow-icon" name="long-arrow-right" />
             </a>
           </p>
@@ -41,12 +41,12 @@ const About = ({ colorName }) => {
           </p>
           <br />
           <p>
-            <a className="link arrow-move" href="https://github.com/nataliedespain/petsit">
+            <a className="link arrow-move" href="https://github.com/nataliedespain/petsit" target="_blank" rel="noopener noreferrer">
               <UnderlinedText text="View on Github" colorName={colorName} small /><FontAwesome className="arrow-icon" name="long-arrow-right" />
             </a>
           </p>
           <p>
-            <a className="link arrow-move" href="https://www.youtube.com/watch?v=kw90Z45LPsI">
+            <a className="link arrow-move" href="https://www.youtube.com/watch?v=kw90Z45LPsI" target="_blank" rel="noopener noreferrer">
               <UnderlinedText text="Watch Demo" colorName={colorName} small /><FontAwesome className="arrow-icon" name="long-arrow-right" />
             </a>
           </p>
@@ -60,7 +60,7 @@ const About = ({ colorName }) => {
           </p>
           <br />
           <p>
-            <a className="link arrow-move" href="https://github.com/nataliedespain/q1-project">
+            <a className="link arrow-move" href="https://github.com/nataliedespain/q1-project" target="_blank" rel="noopener noreferrer">
               <UnderlinedText text="View on Github" colorName={colorName} small /><FontAwesome className="arrow-icon" name="long-arrow-right" />
             </a>
           </p>
