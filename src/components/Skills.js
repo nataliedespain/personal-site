@@ -16,13 +16,14 @@ const Skills = ({ colorName }) => {
         <div className="section--right-column">
           <p>HTML</p>
           <p>CSS / SASS</p>
-          <p>Javascript / ES6</p>
           <p>AJAX</p>
           <p>Node.js</p>
           <p>Express</p>
           <p>PostgreSQL</p>
+          <p>Ruby / Rails</p>
         </div>
         <div className="section--right-column">
+          <p>Javascript / ES6</p>
           <p>React</p>
           <p>React Native</p>
           <p>Redux</p>
