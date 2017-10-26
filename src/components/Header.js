@@ -17,6 +17,9 @@ const Header = () => {
         <Scroll.Link to="education" spy smooth duration={500}>
           EDUCATION
         </Scroll.Link>
+        <Scroll.Link to="art" spy smooth duration={500}>
+          ART
+        </Scroll.Link>
       </div>
     </div>
   );

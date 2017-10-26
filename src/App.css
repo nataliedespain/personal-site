@@ -205,3 +205,28 @@
   background-size: contain;
   top: 25px;
 }
+
+.artimg {
+  width: 100%;
+  margin: 10px;
+  transition: 0.3s ease;
+}
+
+.artimg:hover {
+  cursor: pointer;
+}
+
+.artimg1 {
+  background: url('./imgs/square.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.artimg2 {
+  background: url('./imgs/blue.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.artimg3 {
+  background: url('./imgs/purple.jpg') no-repeat center center;
+  background-size: cover;
+}
